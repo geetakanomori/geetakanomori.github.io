@@ -5,6 +5,8 @@
 * 徒歩20分
 * または東武バス（江戸川台駅東口行き、柏の葉キャンパス駅西口行き）４分、駒木下車徒歩５分
 
+[周辺地図](https://drive.google.com/open?id=1WKVXbXgkUtFrii1tMolxQxDgWRo-SJ-_&usp=sharing)（住所詳細は非公開）
+
 ## 現況
 * 入居者募集中（１名即日入居可＋２名入居日応相談）
 * １名入居中
