@@ -7,9 +7,9 @@
 
 [周辺地図](https://drive.google.com/open?id=1WKVXbXgkUtFrii1tMolxQxDgWRo-SJ-_&usp=sharing)（住所詳細は非公開）
 
-## 現況
-* 入居者募集中（１名即日入居可＋２名入居日応相談）
+## 入居状況
 * １名入居中
+* 入居者募集中（１名すぐに入居可＋２名入居日要相談）
 * オーナー兼管理人が隣地に居住
 
 ## 料金
