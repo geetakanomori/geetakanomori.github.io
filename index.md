@@ -58,7 +58,7 @@
 * IT関係の仕事、学校、趣味
 * 荷物が少ない
 * きれい好き
-* ギークっぽい何かの能力がある
+* ギークっぽい何かの能力がある、またはギークっぽい能力を身に付けようという意欲がある
 
 ## 連絡先
 Twitter: [@geetakanomori](https://twitter.com/geetakanomori)
