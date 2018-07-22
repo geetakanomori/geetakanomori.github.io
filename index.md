@@ -33,7 +33,7 @@
 * トイレ（温水洗浄便座付き）
 * もくもく部屋兼イベント部屋10.5畳（準備中・隣接する管理人住居の2F）
 
-<img src="madorizu.png" width="700px">
+<img src="madorizu.png" width="700">
 
 ## 設備
 * インターネット接続（無線LAN）
