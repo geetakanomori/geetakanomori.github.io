@@ -70,4 +70,7 @@
 ## 連絡先
 Twitter: [@geetakanomori](https://twitter.com/geetakanomori)
 
-入居、内覧などのお問い合せは上記アカウントまで
+入居、内見などのお問い合せは上記アカウントまで
+
+## 関連リンク
+[ギークハウスプロジェクト](http://geekhouse.tumblr.com/)
