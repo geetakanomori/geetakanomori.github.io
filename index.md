@@ -9,9 +9,9 @@
 [周辺地図](https://drive.google.com/open?id=1WKVXbXgkUtFrii1tMolxQxDgWRo-SJ-_&usp=sharing)（住所詳細は非公開）
 
 ## 入居状況
-(2018/8/3)
-* 入居者募集中（４名）
-* 現在入居者０名
+(2018/8/31)
+* 入居者募集中（３名）
+* ９月から入居者１名
 * 管理人は隣地に居住
 
 ## 料金
@@ -37,7 +37,7 @@
 <img src="madorizu.png" width="700">
 
 ## 設備
-* インターネット接続（無線LAN）
+* インターネット接続（Wifi接続、光回線）
 * スマートロック
 * システムキッチン（ビルトイン食洗機、IHクッキングヒーター）
 * 冷蔵庫、電子レンジ、炊飯器、縦型洗濯乾燥機
@@ -68,9 +68,10 @@
 * ギークっぽい何かの能力がある、またはギークっぽい能力を身に付けようという意欲がある
 
 ## 連絡先
-Twitter: [@geetakanomori](https://twitter.com/geetakanomori)
+Twitter: [@geetakanomori](https://twitter.com/geetakanomori)  
+Email: geetakanomori＠gmail.com （＠を@に変えてください）
 
-入居、内見などのお問い合せは上記アカウントまで
+入居、内見などのお問い合せは上記TwtterのDMかメールで（Twitterの方がレスポンス速いです）
 
 ## 関連リンク
 [ギークハウスプロジェクト](http://geekhouse.tumblr.com/)
