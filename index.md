@@ -39,7 +39,7 @@
 
 <img src="madorizu.png" width="700">
 
-## 設備
+## 設備等
 * インターネット接続（Wifi接続、光回線）
 * スマートロック
 * システムキッチン（ビルトイン食洗機、IHクッキングヒーター）
@@ -48,6 +48,7 @@
 * ガスファンヒーター（リビング）
 * 40インチ4Kテレビ（4K Ultra HD Blu-ray 再生環境あり）
 * 自転車
+* [書籍](https://booklog.jp/users/geetakanomori)
 
 ## 入居要件
 
