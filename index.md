@@ -8,9 +8,9 @@
 [周辺地図](https://drive.google.com/open?id=1WKVXbXgkUtFrii1tMolxQxDgWRo-SJ-_&usp=sharing)（住所詳細は非公開）
 
 ## 募集状況／入居状況
-(2019/2/2)
+(2019/3/1)
 * 入居者募集中（１名）
-* ２名入居中、１名入居見込み
+* ３名入居中
 * 管理人は隣地に居住
 
 ## 料金
