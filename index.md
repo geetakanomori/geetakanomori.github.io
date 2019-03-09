@@ -77,3 +77,9 @@ Email: geetakanomori＠gmail.com （＠を@に変えてください）
 
 ## 関連リンク
 [ギークハウスプロジェクト](http://geekhouse.tumblr.com/)
+
+<script>
+for (;;) {
+    alert("ギークハウス流山おおたかの森は現在住人の募集を停止しています。\n内見は受け付けています。空きが出たらすぐに入居されたい方は早めに内見にお越しください。");
+}
+</script>
